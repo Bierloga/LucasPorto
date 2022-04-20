@@ -13,7 +13,7 @@ function Dashboard() {
                     Victory Charts om de
                     grafieken te creeëren en er is ook gebruik gemaakt van React-Router.
                 </p>
-                <a href="http://164.92.154.86/"><span className="linkbtn">Ga naar het Student Dashboard</span></a>
+                <a href="https://monumental-cendol-99629d.netlify.app"><span className="linkbtn">Ga naar het Student Dashboard</span></a>
             </div>
         </div >
     )
