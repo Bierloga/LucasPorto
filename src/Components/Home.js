@@ -2,7 +2,7 @@ function Home() {
     return (
         <div className="content">
             <div className="contentDiv">
-                <h2>Welkom op mijn online portfolio</h2>
+                <h2 className="lower-title">Welkom op mijn online portfolio</h2>
                 <p>Leuk dat je er bent! <br></br>Selecteer een opdracht aan de linkerkant om verder te kijken!</p>
                 <div className="icons">
                     <div><i class="icon fab fa-brands fa-html5"></i></div>

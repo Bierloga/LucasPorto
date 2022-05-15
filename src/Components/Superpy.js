@@ -12,7 +12,7 @@ function Superpy() {
                     kunt vragen.
                     Uiteindelijk kan alle informatie ook csv-bestanden ge-exporteerd worden.
                 </p>
-                <a href="https://github.com/Bierloga/Lucas-Derksen--SuperPy"><span className="linkbtn">Ga naar de SuperPy repo op Github</span></a>
+                <a href="https://github.com/Bierloga/Lucas-Derksen--SuperPy"><span className="linkbtn">SuperPy repo op Github</span></a>
             </div>
         </div>
     )
